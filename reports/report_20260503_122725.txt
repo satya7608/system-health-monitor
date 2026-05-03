@@ -1,0 +1,7 @@
+===== SYSTEM REPORT =====
+Time: Sun May  3 12:27:25 PM IST 2026
+CPU Usage: 28.6%
+Memory Usage: 63%
+Disk Usage: 16%
+Open Ports: 5
+Connections: 2

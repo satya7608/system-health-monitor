@@ -1,0 +1,8 @@
+[2026-04-25 15:00:33] INFO: ========== MONITORING SESSION STARTED ==========
+[2026-04-25 15:00:33] INFO: Total servers to monitor: 5
+[2026-04-25 15:00:35] ERROR: Failed to monitor: web-server-01 - Connection failed
+[2026-04-25 15:00:40] ERROR: Failed to monitor: db-server-prod - Connection failed
+[2026-04-25 15:00:44] ERROR: Failed to monitor: app-server-01 - Connection failed
+[2026-04-25 15:00:48] ERROR: Failed to monitor: backup-server - Connection failed
+[2026-04-25 15:00:52] ERROR: Failed to monitor: jenkins-server - Connection failed
+[2026-04-25 15:00:54] INFO: ========== MONITORING SESSION COMPLETED ==========

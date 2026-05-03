@@ -1,0 +1,5 @@
+[2026-04-25 15:00:35] ALERT: web-server-01: Server unreachable
+[2026-04-25 15:00:40] ALERT: db-server-prod: Server unreachable
+[2026-04-25 15:00:44] ALERT: app-server-01: Server unreachable
+[2026-04-25 15:00:48] ALERT: backup-server: Server unreachable
+[2026-04-25 15:00:52] ALERT: jenkins-server: Server unreachable
